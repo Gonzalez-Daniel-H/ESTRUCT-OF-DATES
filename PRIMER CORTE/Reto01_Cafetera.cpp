@@ -37,7 +37,7 @@ int main() {
     Cafetera* c_Oster = new Oster();
     Cafetera* c_Haceb = new Haceb();
 
-
+    
     c_Oster->Capuchino();
     c_Oster->Tinto();
 
@@ -46,8 +46,6 @@ int main() {
     c_Haceb->Tinto();
 
 
-    delete c_Oster;
-    delete c_Haceb;
 
     return 0;
 }
