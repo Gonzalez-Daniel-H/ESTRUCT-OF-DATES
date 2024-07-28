@@ -28,7 +28,7 @@ int cuadradosPares2(int n){
 	if(n == 0){
 		return n;
 	} else {
-		return pow(n+n,2) + cuadradosPares2(n - 1);
+		return pow(n,2) + cuadradosPares2(n - 2);
 	}
 }
 
