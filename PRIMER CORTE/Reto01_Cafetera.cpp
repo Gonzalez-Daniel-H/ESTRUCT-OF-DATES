@@ -1,3 +1,8 @@
+/**************************************************************
+Autor: Daniel Gonzalez
+Materia: Sistemas Operativos
+Fecha: 17/07/24
+*****************************************************************/
 #include <iostream>
 
 using namespace std;

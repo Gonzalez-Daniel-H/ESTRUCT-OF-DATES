@@ -1,3 +1,9 @@
+/**************************************************************
+Autor: Daniel Gonzalez
+Materia: Estructura de Datos
+Fecha: 24/07/24
+*****************************************************************/
+
 #include <iostream>
 #include <string>
 #include <math.h>
