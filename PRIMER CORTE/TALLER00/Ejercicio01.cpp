@@ -3,7 +3,7 @@ Autor: Daniel Gonzalez
 Fecha: 21/08/2024
 Tema: Taller00 Estructuras y punteros
 
-*//*
+*/
 // EJERCICIO 01
 #include <iostream>
 #include <cstdlib>
@@ -32,7 +32,7 @@ int main(){
   cout <<endl;
 
 }
-*/
+
 
 
 
