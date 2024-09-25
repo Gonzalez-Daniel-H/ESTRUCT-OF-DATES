@@ -1,3 +1,8 @@
+/************************************
+ Nombres: JULIANA PACHECO, DANIEL GONZALES, NICOLAS ALGARA
+ TEMA: TALLER ARBOLES
+ FECHA: 24/09/2024
+ ***********************************/
 #include <iostream>
 using namespace std;
 
