@@ -1,4 +1,8 @@
-
+/************************************
+ Nombres: DANIEL GONZALEZ,JULIANA PACHECO, NICOLAS ALGARA
+ TEMA: Proyecto Final
+ FECHA: 02/11/2024
+ ***********************************/
 #include "Libs/Comando.h"
 #include "Libs/Objeto.h"
 #include "Libs/FuncionesMain.h"
